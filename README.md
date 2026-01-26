@@ -1,2 +1,1 @@
-# meaning
 a blog
