@@ -27,6 +27,15 @@ img {
     height: auto;
 }
 
+/* Images page: every photo fills the column, heights follow the image.
+   The explicit width is what keeps the table from stretching to the
+   widest photo and rendering each one at its native size. */
+.photo {
+    width: 435px;
+    max-width: 100%;
+    height: auto;
+}
+
 table {
     max-width: 100%;
 }
